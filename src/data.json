@@ -1,0 +1,92 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "codigo": "hioal",
+      "descripcion": "desc",
+      "precioU": 32.4
+    },
+    {
+      "id": 3,
+      "codigo": "asdasd",
+      "descripcion": "desc",
+      "precioU": 43.2
+    },
+    {
+      "id": 4,
+      "codigo": "asdasd",
+      "descripcion": "desc",
+      "precioU": 43.2
+    },
+    {
+      "id": 5,
+      "codigo": "asdasd",
+      "descripcion": "sdfdsf",
+      "precioU": 43.2
+    },
+    {
+      "id": 6,
+      "codigo": "asdasd",
+      "descripcion": "desc",
+      "precioU": 43.2
+    },
+    {
+      "id": 9,
+      "codigo": "asdasd",
+      "descripcion": "desc",
+      "precioU": 43.2
+    },
+    {
+      "id": 7,
+      "codigo": "asdasd",
+      "descripcion": "desc",
+      "precioU": 43.2
+    },
+    {
+      "id": 10,
+      "codigo": "asdasd",
+      "descripcion": "desc",
+      "precioU": 43.2
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "cantidad": 22,
+      "codigo": "codigo",
+      "descripcion": "desc",
+      "precioU": 35.6,
+      "iva": 21,
+      "subtotal": 445.25,
+      "productoId": 3
+    },
+    {
+      "id": 2,
+      "cantidad": 22,
+      "codigo": "codigo",
+      "descripcion": "desc",
+      "precioU": 35.6,
+      "iva": 21,
+      "subtotal": 445.25,
+      "productoId": 3
+    },
+    {
+      "id": 3,
+      "cantidad": 22,
+      "codigo": "codigo",
+      "descripcion": "asdads",
+      "precioU": 35.6,
+      "iva": 21,
+      "subtotal": 445.25,
+      "productoId": 3
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "pepe",
+      "direccion": "m david",
+      "cuit": "2324324"
+    }
+  ]
+}
